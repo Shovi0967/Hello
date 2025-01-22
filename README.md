@@ -121,6 +121,7 @@
       <img src="QR.jpg" alt="Scan the QR Code">
     </div>
     <p class="footer">
+      scan this QR for UPI ..<br>
       ~ Warm wishes from <a href="https://www.progclasses.com">Programming Classes</a> ~
     </p>
   </div>
